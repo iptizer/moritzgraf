@@ -32,7 +32,7 @@ theme = "hugo-strata-theme"
 
 
 	[params.about]
-		title = "My daily work - visualized in tag clouds"
+		title = "My daily work - Visualized in tag clouds"
 		#content = "On a first meetup most people ask me: What you do for work? <br> Answering this question is always pretty difficult... <br>So I came up with this homepage-thing. If anybody is really interested, he can just have a look at the tagclouds bejond this text. They explain all the buzzwords and thechniques I get confronted with every day."
 
 
