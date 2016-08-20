@@ -6,8 +6,8 @@ theme = "hugo-strata-theme"
 [params]
 	# To provide some metadata for search engines feel free to add a few
     # information about you and your website.
-	name = "Moritz Graf d"
-	description = "What Moritz does for work"
+	name = "Moritz Graf"
+	description = "What Moritz does for work ddd"
 
 	# Enable Google Analytics by inserting your tracking code
 	googleAnalytics = ""
