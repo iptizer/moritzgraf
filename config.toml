@@ -1,4 +1,4 @@
-baseurl = "https://moritzgraf.de"
+baseurl = "https://moritzgraf.de/"
 languageCode = "de-de"
 title = "Moritz Graf"
 theme = "hugo-strata-theme"
