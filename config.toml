@@ -15,7 +15,7 @@ theme = "hugo-strata-theme"
 
 	[params.sidebar]
 		# Replace the avatar with a picture of your own under static/images
-		avatar = "moritz_123.jpg"
+		avatar = "moritz_smile.png"
 		# Use Markdown to format the string. This works nearly all over the theme
 		bio = "**Hi, I'm Moritz.**<br>Want to get<br> an impression of<br> what I do at work?"
 		# The icons will be shown if you enter your username
