@@ -17,7 +17,7 @@ theme = "hugo-strata-theme"
 		# Replace the avatar with a picture of your own under static/images
 		avatar = "moritz_123.jpg"
 		# Use Markdown to format the string. This works nearly all over the theme
-		bio = "**Hixxx, I'm Moritz.**<br>Want to get<br> an impression of<br> what I do at work?"
+		bio = "**Hi, I'm Moritz.**<br>Want to get<br> an impression of<br> what I do at work?"
 		# The icons will be shown if you enter your username
 		twitter = ""
 		github = ""
