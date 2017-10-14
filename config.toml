@@ -30,7 +30,7 @@ dateformat = "2 Jan 2006"
 ## Site Meta Settings
 [params.meta]
 description = "Online business card - Moritz Graf"
-keywords = "monitoring,ansible,configuration management,icinga2,grafana,"
+keywords = "monitoring,ansible,configuration management,icinga2,grafana,ELK-Stack"
 
 ## Social Accounts
 [params.social]
