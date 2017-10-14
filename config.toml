@@ -1,0 +1,68 @@
+## Basic Configuration
+
+baseurl = "https://moritzgraf.de" 
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Moritz Graf"
+title = "Moritz Graf"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+#disqusShortname = "https-shenoybr-github-io-hugo-goa-demo" # Comment out to disable Disqus.
+#googleAnalytics = "XYZ"
+#enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Moritz Graf"
+intro = "Hipster-Technology enthusiast"
+description = "Experimenting with all new kinds of technology"
+authorimage = "headshot.jpg"
+dateformat = "2 Jan 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "Online business card - Moritz Graf"
+keywords = "monitoring,ansible,configuration management,icinga2,grafana,"
+
+## Social Accounts
+[params.social]
+github = "iptizer"
+#instagram = "<username>"
+linkedin = "moritz-graf-92abaa91"
+twitter = "TheIPtizer"
+#facebook = "<username>"
+#google = "<username>"
+stackoverflow = "iptizer"
+xing = "hh"
+email = "contact-moritz@moritzgraf.de"
+
+## Extras
+[params.extra]
+copyright = "© 2017. Moritz Graf. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+poweredby = false
+highlightjs = true
+
+## Main Menu
+[[menu.main]]
+    name = "blog"
+    weight = 100
+    identifier = "blog"
+    url = "http://iptize.it"
+#[[menu.main]]
+#    name = "about"
+#    identifier = "about"
+#    weight = 200
+#    url = "/about/"
+#[[menu.main]]
+#    name = "coderag"
+#    identifier = "coderag"
+#    weight = 300
+#    url = "/coderag/"
