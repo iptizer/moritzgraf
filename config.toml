@@ -22,7 +22,7 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Moritz Graf"
-intro = "New-Technology enthusiast"
+intro = "Hipster Technology enthusiast"
 description = "Having fun with everything IP can transport."
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
