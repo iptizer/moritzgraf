@@ -22,8 +22,8 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Moritz Graf"
-intro = "Hipster-Technology enthusiast"
-description = "Experimenting with all new kinds of technology"
+intro = "New-Technology enthusiast"
+description = "Having fun with everything IP can transport."
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
