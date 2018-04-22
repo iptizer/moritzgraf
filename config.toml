@@ -22,8 +22,8 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Moritz Graf"
-intro = "Hipster Technology enthusiast"
-description = "Having fun with everything IP can transport."
+intro = "Technology enthusiast"
+description = "Linux - Ansible - ELK-Stack - IP Networks"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
