@@ -23,7 +23,7 @@ theme = "hugo-goa"
 [params]
 author = "Moritz Graf"
 intro = "Technology enthusiast"
-description = "Linux - Ansible - ELK-Stack - IP Networks"
+description = "Linux - Ansible - Terraform - AWS - ELK-Stack - IP Networks"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
