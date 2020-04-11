@@ -1,5 +1,12 @@
 #!/bin/bash
 CONTAINER_NAME="moritzgrafde"
+#DEPLOYMENT="mopbot"
+#NAMESPACE="datalab"
+
 hugo
-docker build -t ${CONTAINER_NAME}:latest -t hub.moritzgraf.de:5000/${CONTAINER_NAME}:latest .
-docker push hub.moritzgraf.de:5000/${CONTAINER_NAME}:latest
+
+docker build -t ${CONTAINER_NAME}:latest -t registry.haumdaucher.de/${CONTAINER_NAME}:latest .
+docker push registry.haumdaucher.de/${CONTAINER_NAME}:latest
+
+#kubectl patch deployment $DEPLOYMENT -n $NAMESPACE -p "{\"spec\": {\"template\": {\"metadata\": { \"labels\": {  \"redeploy\": \"$( date +%s )\"}}}}}"
+#kubectl get po -l app=$DEPLOYMENT -n $NAMESPACE -w
