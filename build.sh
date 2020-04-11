@@ -1,7 +1,7 @@
 #!/bin/bash
 CONTAINER_NAME="moritzgrafde"
-#DEPLOYMENT="mopbot"
-#NAMESPACE="datalab"
+#DEPLOYMENT="moritzgrafde"
+#NAMESPACE="web"
 
 hugo
 
