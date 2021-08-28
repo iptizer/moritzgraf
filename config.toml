@@ -22,15 +22,15 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Moritz Graf"
-intro = "Technology enthusiast"
-description = "Linux - Ansible - Terraform - AWS - ELK-Stack - IP Networks"
+intro = "Cloud native native"
+description = "- - - - - - - - -"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
 
 ## Site Meta Settings
 [params.meta]
 description = "Online business card - Moritz Graf"
-keywords = "monitoring,ansible,configuration management,icinga2,grafana,ELK-Stack"
+keywords = "monitoring,ansible,configuration management,icinga2,grafana,ELK-Stack,prometheus,kubernetes,k3s,cncf,grafana,boto3,aws,terraform,terragrunt,atlantis,serverless,packer,loki,kustomize,jenkins,dependabot,oauth"
 
 ## Social Accounts
 [params.social]
@@ -46,7 +46,7 @@ email = "contact-moritz@moritzgraf.de"
 
 ## Extras
 [params.extra]
-copyright = "© 2017. Moritz Graf. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
+copyright = "© 2021. Moritz Graf. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)." 
 poweredby = false
 highlightjs = true
 
