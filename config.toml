@@ -22,7 +22,7 @@ theme = "hugo-goa"
 ## Site Settings
 [params]
 author = "Moritz Graf"
-intro = "Cloud native native"
+intro = "- - - - - - - - -"
 description = "- - - - - - - - -"
 authorimage = "headshot.jpg"
 dateformat = "2 Jan 2006"
@@ -51,11 +51,11 @@ poweredby = false
 highlightjs = true
 
 ## Main Menu
-[[menu.main]]
-    name = "blog"
-    weight = 100
-    identifier = "blog"
-    url = "http://iptize.it"
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "http://iptize.it"
 #[[menu.main]]
 #    name = "about"
 #    identifier = "about"
